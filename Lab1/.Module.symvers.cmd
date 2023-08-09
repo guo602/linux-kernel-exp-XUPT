@@ -1,0 +1,1 @@
+cmd_/home/guoyang/Documents/linux-kernel-exp-XUPT/Lab1/Module.symvers :=  scripts/mod/modpost -m -a     -o /home/guoyang/Documents/linux-kernel-exp-XUPT/Lab1/Module.symvers -T /home/guoyang/Documents/linux-kernel-exp-XUPT/Lab1/modules.order -i Module.symvers -e 

@@ -1,0 +1,1 @@
+cmd_/home/guoyang/Documents/linux-kernel-exp-XUPT/Lab1/helloworld.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/guoyang/Documents/linux-kernel-exp-XUPT/Lab1/helloworld.ko /home/guoyang/Documents/linux-kernel-exp-XUPT/Lab1/helloworld.o /home/guoyang/Documents/linux-kernel-exp-XUPT/Lab1/helloworld.mod.o;  true
