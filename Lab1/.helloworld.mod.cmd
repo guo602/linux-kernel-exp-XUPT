@@ -1,1 +1,0 @@
-cmd_/home/guoyang/Documents/linux-kernel-exp-XUPT/Lab1/helloworld.mod := printf '%s\n'   helloworld.o | awk '!x[$$0]++ { print("/home/guoyang/Documents/linux-kernel-exp-XUPT/Lab1/"$$0) }' > /home/guoyang/Documents/linux-kernel-exp-XUPT/Lab1/helloworld.mod

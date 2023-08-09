@@ -1,1 +1,0 @@
-cmd_/home/guoyang/Documents/linux-kernel-exp-XUPT/Lab1/modules.order := {   echo /home/guoyang/Documents/linux-kernel-exp-XUPT/Lab1/helloworld.o; :; } > /home/guoyang/Documents/linux-kernel-exp-XUPT/Lab1/modules.order
